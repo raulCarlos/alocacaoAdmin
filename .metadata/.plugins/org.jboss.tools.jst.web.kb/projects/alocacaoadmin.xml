@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/jsp-api.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/websocket-api.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/el-api.jar"/>
+  <path value="C:/Users/User/.m2/repository/org/primefaces/themes/south-street/1.0.10/south-street-1.0.10.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-api.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/catalina-ant.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/jasper-el.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/annotations-api.jar"/>
+  <path value="C:/Users/User/.m2/repository/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/c-1_0-rt.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/c-1_0.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/c.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/fmt-1_0-rt.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/fmt-1_0.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/fmt.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/fn.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/html_basic.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/jsf_core.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/mojarra_ext.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/permittedtaglibs.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/scriptfree.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/sql-1_0-rt.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/sql-1_0.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/sql.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/x-1_0-rt.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/x-1_0.tld" project="alocacaoadmin"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-web-api-6.0.jar/meta-inf/x.tld" project="alocacaoadmin"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-jdbc.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-util.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-dbcp.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat7-websocket.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/catalina.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/catalina-tribes.jar"/>
+  <path value="/alocacaoadmin/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="alocacaoadmin"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/ecj-4.4.2.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/catalina-ha.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/jasper.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-coyote.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/servlet-api.jar"/>
+  <path value="C:/IDE/apache-tomcat-7.0.69/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/User/.m2/repository/org/webjars/font-awesome/4.5.0/font-awesome-4.5.0.jar"/>
+  <path value="C:/Users/User/.m2/repository/org/primefaces/primefaces/5.3/primefaces-5.3.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-5.3.jar/meta-inf/faces-config.xml" project="alocacaoadmin"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-5.3.jar/meta-inf/primefaces-p.taglib.xml" project="alocacaoadmin"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-5.3.jar/meta-inf/primefaces-pm.taglib.xml" project="alocacaoadmin"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="14" name="%0" offset="453" path="%1"/>
+   <linked-el length="14" name="%0" offset="541" path="%1"/>
+   <linked-el length="21" name="%0" offset="856" path="%1"/>
+   <linked-el length="35" name="%2" offset="757" path="%3"/>
+   <linked-el length="35" name="%2" offset="931" path="%3"/>
+   <linked-el length="36" name="%4" offset="1025" path="%5"/>
+   <linked-el length="39" name="%4" offset="541" path="%6"/>
+   <linked-el length="39" name="%4" offset="546" path="%7"/>
+   <linked-el length="36" name="%4" offset="1101" path="%3"/>
+   <linked-el length="35" name="%4" offset="757" path="%3"/>
+   <linked-el length="35" name="%4" offset="931" path="%3"/>
+   <linked-el length="36" name="%8" offset="1025" path="%5"/>
+   <linked-el length="39" name="%8" offset="541" path="%6"/>
+   <linked-el length="39" name="%8" offset="546" path="%7"/>
+   <linked-el length="36" name="%8" offset="1101" path="%3"/>
+   <linked-el length="35" name="%8" offset="757" path="%3"/>
+   <linked-el length="35" name="%8" offset="931" path="%3"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="basedir" value="%0"/>
+  <alias path="/alocacaoadmin/WebContent/pages/login.xhtml" value="%3"/>
+  <alias
+   path="/alocacaoadmin/WebContent/pages/default/page_not_found.xhtml" value="%7"/>
+  <alias path="/alocacaoadmin/WebContent/pages/admin/index.xhtml" value="%5"/>
+  <alias path="/alocacaoadmin/src/br/com/unb/entity/User.java" value="%2"/>
+  <alias path="/alocacaoadmin/src/br/com/unb/mb/UserManagedBean.java" value="%4"/>
+  <alias
+   path="/alocacaoadmin/WebContent/pages/default/session_expired.xhtml" value="%6"/>
+  <alias path="userManagedBean" value="%8"/>
+  <alias
+   path="/alocacaoadmin/WebContent/META-INF/maven/org.jboss.tools/alocacaoadmin/pom.xml" value="%1"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/composite">
+   <prefix>composite</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://primefaces.org/ui">
+   <prefix>p</prefix>
+  </uri>
+ </uris>
+</kb-project>
