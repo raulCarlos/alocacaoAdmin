@@ -1,0 +1,12 @@
+package br.com.unb.dao;
+
+import br.com.unb.entity.ScholarShipNumber;
+
+public class DAOScholarShipNumber {
+
+	public ScholarShipNumber getSSNumber(){
+		ScholarShipNumber ssn = new ScholarShipNumber();
+		ssn.setAmount(30);
+		return ssn;
+	}
+}

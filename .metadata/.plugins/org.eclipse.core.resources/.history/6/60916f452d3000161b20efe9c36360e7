@@ -1,0 +1,29 @@
+package br.com.unb.entity;
+
+public class Offer {
+
+	private int offer;
+	private int subjects;
+	private int halfYear;
+	private int studentsAmount;
+	private int isMandatory;
+	
+	public int getOffer() {
+		return offer;
+	}
+	public void setOffer(int offer) {
+		this.offer = offer;
+	}
+	public int getSubjects() {
+		return subjects;
+	}
+	public void setSubjects(int subjects) {
+		this.subjects = subjects;
+	}
+	public int getHalfYear() {
+		return halfYear;
+	}
+	public void setHalfYear(int half_year) {
+		this.halfYear = half_year;
+	}	
+}

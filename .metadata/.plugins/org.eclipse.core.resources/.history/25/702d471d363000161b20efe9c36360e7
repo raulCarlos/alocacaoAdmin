@@ -1,0 +1,24 @@
+package br.com.unb.bo;
+
+import java.util.List;
+
+import br.com.unb.dao.DAOOffer;
+import br.com.unb.dao.DAOScholarShipNumber;
+import br.com.unb.entity.Offer;
+
+public class BOAlocation {
+
+	
+	
+	public boolean startAllocation(){
+		
+		DAOOffer daoOffer = new DAOOffer();
+		DAOScholarShipNumber daoSSN = new DAOScholarShipNumber();
+		
+		List<Offer> list = daoOffer.getAllOffers();
+		
+		
+		return true;
+	}
+	
+}

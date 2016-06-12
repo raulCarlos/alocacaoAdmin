@@ -1,0 +1,297 @@
+package br.com.unb.dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.unb.entity.Offer;
+
+public class DAOOffer {
+
+	public List<Offer> getAllOffers(){
+		List<Offer> list = new ArrayList<Offer>();
+		Offer of = new Offer();
+		int i = 0;
+		
+		of.setId(0);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69853);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(10);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(false);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(false);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(false);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		
+		of = new Offer();
+		list.add(of);
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(false);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(0);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(false);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(false);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		of = new Offer();
+		of.setId(++i);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		list.add(of);
+		
+		
+		return list;
+	}
+}

@@ -134,33 +134,43 @@
    <linked-el length="14" name="%0" offset="453" path="%1"/>
    <linked-el length="14" name="%0" offset="541" path="%1"/>
    <linked-el length="21" name="%0" offset="856" path="%1"/>
-   <linked-el length="35" name="%2" offset="757" path="%3"/>
-   <linked-el length="35" name="%2" offset="931" path="%3"/>
-   <linked-el length="36" name="%4" offset="1025" path="%5"/>
-   <linked-el length="39" name="%4" offset="541" path="%6"/>
-   <linked-el length="39" name="%4" offset="546" path="%7"/>
-   <linked-el length="36" name="%4" offset="1101" path="%3"/>
-   <linked-el length="35" name="%4" offset="757" path="%3"/>
-   <linked-el length="35" name="%4" offset="931" path="%3"/>
-   <linked-el length="36" name="%8" offset="1025" path="%5"/>
-   <linked-el length="39" name="%8" offset="541" path="%6"/>
-   <linked-el length="39" name="%8" offset="546" path="%7"/>
-   <linked-el length="36" name="%8" offset="1101" path="%3"/>
-   <linked-el length="35" name="%8" offset="757" path="%3"/>
-   <linked-el length="35" name="%8" offset="931" path="%3"/>
+   <linked-el length="52" name="%2" offset="760" path="%3"/>
+   <linked-el length="62" name="%2" offset="1533" path="%3"/>
+   <linked-el length="62" name="%4" offset="1533" path="%3"/>
+   <linked-el length="35" name="%5" offset="757" path="%6"/>
+   <linked-el length="35" name="%5" offset="931" path="%6"/>
+   <linked-el length="39" name="%7" offset="581" path="%8"/>
+   <linked-el length="39" name="%7" offset="541" path="%9"/>
+   <linked-el length="36" name="%7" offset="1101" path="%6"/>
+   <linked-el length="36" name="%7" offset="1236" path="%3"/>
+   <linked-el length="35" name="%7" offset="757" path="%6"/>
+   <linked-el length="35" name="%7" offset="931" path="%6"/>
+   <linked-el length="39" name="%10" offset="581" path="%8"/>
+   <linked-el length="39" name="%10" offset="541" path="%9"/>
+   <linked-el length="36" name="%10" offset="1101" path="%6"/>
+   <linked-el length="36" name="%10" offset="1236" path="%3"/>
+   <linked-el length="35" name="%10" offset="757" path="%6"/>
+   <linked-el length="35" name="%10" offset="931" path="%6"/>
+   <linked-el length="52" name="%11" offset="760" path="%3"/>
+   <linked-el length="62" name="%11" offset="1533" path="%3"/>
   </el>
  </validation>
  <aliases>
   <alias path="basedir" value="%0"/>
-  <alias path="/alocacaoadmin/WebContent/pages/login.xhtml" value="%3"/>
+  <alias path="allocationManagedBean" value="%2"/>
   <alias
-   path="/alocacaoadmin/WebContent/pages/default/page_not_found.xhtml" value="%7"/>
-  <alias path="/alocacaoadmin/WebContent/pages/admin/index.xhtml" value="%5"/>
-  <alias path="/alocacaoadmin/src/br/com/unb/entity/User.java" value="%2"/>
-  <alias path="/alocacaoadmin/src/br/com/unb/mb/UserManagedBean.java" value="%4"/>
+   path="/alocacaoadmin/src/br/com/unb/entity/ScholarShipNumber.java" value="%4"/>
+  <alias path="/alocacaoadmin/WebContent/pages/login.xhtml" value="%6"/>
   <alias
-   path="/alocacaoadmin/WebContent/pages/default/session_expired.xhtml" value="%6"/>
-  <alias path="userManagedBean" value="%8"/>
+   path="/alocacaoadmin/WebContent/pages/default/page_not_found.xhtml" value="%8"/>
+  <alias path="/alocacaoadmin/WebContent/pages/admin/index.xhtml" value="%3"/>
+  <alias path="/alocacaoadmin/src/br/com/unb/entity/User.java" value="%5"/>
+  <alias path="/alocacaoadmin/src/br/com/unb/mb/UserManagedBean.java" value="%7"/>
+  <alias
+   path="/alocacaoadmin/WebContent/pages/default/session_expired.xhtml" value="%9"/>
+  <alias path="userManagedBean" value="%10"/>
+  <alias
+   path="/alocacaoadmin/src/br/com/unb/mb/AllocationManagedBean.java" value="%11"/>
   <alias
    path="/alocacaoadmin/WebContent/META-INF/maven/org.jboss.tools/alocacaoadmin/pom.xml" value="%1"/>
  </aliases>

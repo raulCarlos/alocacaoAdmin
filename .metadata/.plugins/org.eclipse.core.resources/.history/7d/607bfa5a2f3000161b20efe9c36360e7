@@ -1,0 +1,24 @@
+package br.com.unb.dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.unb.entity.Offer;
+
+public class DAOOffer {
+
+	public List<Offer> getAllOffers(){
+		List<Offer> list = new ArrayList<Offer>();
+		Offer of = new Offer();
+		of.setId(0);
+		of.setSubjects(69852);
+		of.setHalfYear("2016/02");
+		of.setIsMandatory(true);
+		of.setStudentsAmount(24);
+		
+		list.add(of);
+		
+		
+		return list;
+	}
+}

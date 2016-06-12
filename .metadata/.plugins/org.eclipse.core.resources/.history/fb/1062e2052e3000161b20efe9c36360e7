@@ -1,0 +1,15 @@
+package br.com.unb.dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.unb.entity.Offer;
+
+public class DAOOffer {
+
+	
+	public List<Offer> getAllOffers(){
+		List<Offer> list = new ArrayList<Offer>();
+		return list;
+	}
+}

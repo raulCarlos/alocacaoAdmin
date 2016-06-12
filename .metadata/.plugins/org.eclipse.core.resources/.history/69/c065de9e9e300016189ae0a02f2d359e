@@ -1,0 +1,24 @@
+package br.com.unb.mb;
+
+
+import java.io.Serializable;
+
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.ViewScoped;
+
+import br.com.unb.bo.BOAlocation;
+import br.com.unb.utils.ReturnMessage;
+
+@ManagedBean(name="allocationManagedBean")
+@ViewScoped
+public class AllocationManagedBean implements Serializable{
+
+	private static final long serialVersionUID = 1L;
+	private BOAlocation bo = new BOAlocation();
+	
+	public void startAllocationProcess(){
+		bo.startAllocation();
+		ReturnMessage.setMessage("Processo: ","Alocação Finalizada" , "info");
+	}
+	
+}
